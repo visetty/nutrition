@@ -10,42 +10,57 @@ h2{
   font-family: sans-serif;
   font-size: 30px;
   font-weight: bolder;
+  color: #FF4500;
 }
 
 h3{
   font-family: sans-serif;
   font-size: 30px;
   font-weight: bolder;
+  color: #FF4500;
 }
 
 h4{
   font-family: sans-serif;
   font-size: 30px;
   font-weight: bolder;
+  color: #FF4500;
 }
 
 p.intro{
   font-size: 20px;
   font-style: italic;
+  color: #DC143C;
 }
 
 p.best{
   font-size: 20px;
   font-style: italic;
+  color: #DC143C;
 }
 
 p.health{
   font-size: 20px;
   font-style: oblique;
+  color: #DC143C;
 }
 
 ul.list{
   font-size: 20px;
   font-family: monospace;
   font-weight: normal;
+  color: #8B0000;
 }
 
 .img{
   max-height: 400px;
   max-width: 800px;
+}
+
+a:link{
+  color: red;
+}
+
+body{
+  background-color: #D3D3D3;
 }
